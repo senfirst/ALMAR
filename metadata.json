@@ -1,0 +1,6 @@
+{
+  "name": "SunuÉcole - Gestion Scolaire Sénégal",
+  "description": "Logiciel web moderne et responsive de gestion scolaire pour établissements scolaires au Sénégal avec gestion des élèves, notes, paiements en FCFA, absences et documents officiels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
